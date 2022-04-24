@@ -1,0 +1,7 @@
+/home/dell/桌面/lyl_Person_Reid/yolo_detection/bbox_datasets/751.jpg 0
+/home/dell/桌面/lyl_Person_Reid/yolo_detection/bbox_datasets/752.jpg 8
+/home/dell/桌面/lyl_Person_Reid/yolo_detection/bbox_datasets/753.jpg 2
+/home/dell/桌面/lyl_Person_Reid/yolo_detection/bbox_datasets/754.jpg 1
+/home/dell/桌面/lyl_Person_Reid/yolo_detection/bbox_datasets/755.jpg 3
+/home/dell/桌面/lyl_Person_Reid/yolo_detection/bbox_datasets/756.jpg 4
+/home/dell/桌面/lyl_Person_Reid/yolo_detection/bbox_datasets/757.jpg 6
