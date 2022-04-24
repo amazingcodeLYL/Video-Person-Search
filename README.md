@@ -39,10 +39,7 @@ python3 object_detection_yolo.py --video=run.mp4 --device 'gpu'
 ```
 视频检索行人，并保存结果
 
-![排序结果](https://github.com/amazingcodeLYL/Video-Person-Search/blob/master/0_ft10.png)
-![排序结果](https://github.com/amazingcodeLYL/Video-Person-Search/blob/master/1_ft10.png)
-![排序结果](https://github.com/amazingcodeLYL/Video-Person-Search/blob/master/4_ft10.png)
-![排序结果](https://github.com/amazingcodeLYL/Video-Person-Search/blob/master/6_ft10.png)
+![排序结果](https://github.com/amazingcodeLYL/Video-Person-Search/blob/master/0_ft10.png) ![排序结果](https://github.com/amazingcodeLYL/Video-Person-Search/blob/master/1_ft10.png) ![排序结果](https://github.com/amazingcodeLYL/Video-Person-Search/blob/master/4_ft10.png) ![排序结果](https://github.com/amazingcodeLYL/Video-Person-Search/blob/master/6_ft10.png)
 
 
 
